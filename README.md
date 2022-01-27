@@ -1,14 +1,15 @@
 ### Hello world, Eu me chamo vaf
 ##
 <img align="center" alt="Vaf-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Vaf-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"> <img align="center" alt="Vaf-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> <img align="center" alt="Vaf-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">  <img align="center" alt="Vaf-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="right" height="300" width="300px" alt="lolifumante"  src="https://im5.ezgif.com/tmp/ezgif-5-7dfb599083.gif">
 
 
 
 - 🔭 Hoje eu trabalho com Fullstack
 - 🌱 Estou aprendendo: Node e Typescript
-- ⚡ Curiosidade: Eu tenho apenas 12 anos
+- ⚡ Curiosidade: Eu tenho apenas 12 anos 
+
 ##
-<img aling="center" height="200" width="200"  src="https://im5.ezgif.com/tmp/ezgif-5-7dfb599083.gif">
 
   <a href="https://github.com/Vaf88767">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vaf88767&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
