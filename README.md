@@ -7,7 +7,7 @@
 
 - 🔭 Hoje eu trabalho com Fullstack
 - 🌱 Estou aprendendo: Node e Typescript
-- ⚡ Curiosidade: Eu tenho apenas 12 anos 
+- ⚡ Curiosidade: Eu tenho apenas 13 anos 
 
 
 ##
